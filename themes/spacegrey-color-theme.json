@@ -958,8 +958,7 @@
 			"name": "Deprecated",
 			"scope": "invalid.deprecated",
 			"settings": {
-				"foreground": "#8594A8",
-				"fontStyle": "underline",
+				"foreground": "#8594A8"
 			}
 		},
 		{
