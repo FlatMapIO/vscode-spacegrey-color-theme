@@ -1,0 +1,27 @@
+{
+    "name": "spacegrey",
+    "displayName": "Spacegrey Theme",
+    "description": "The spacegrey theme",
+    "author": "huodon@gmail.com",
+    "publisher": "huodon",
+    "version": "0.0.1",
+    "icon": "icon.png",
+    "repository": {
+        "url": "https://github.com/FlatMapIO/vscode-spacegrey-color-theme.git"
+    },
+    "engines": {
+        "vscode": "^1.58.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "spacegrey",
+                "uiTheme": "vs",
+                "path": "./themes/spacegrey-color-theme.json"
+            }
+        ]
+    }
+}
