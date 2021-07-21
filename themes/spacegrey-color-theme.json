@@ -17,6 +17,7 @@
 			"italic": true
 		},
 		"namespace.attribute": "#804245",
+		"macro.attribute": "#804245",
 		"builtinAttribute.attribute": "#804245",
 		"generic.attribute": "#2f5591",
 		"label": "#33aba9",
