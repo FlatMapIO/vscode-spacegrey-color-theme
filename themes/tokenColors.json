@@ -452,6 +452,13 @@
             }
         },
         {
+            "scope": "punctuation.definition.tag",
+            "settings": {
+                "foreground": "#7f89a3",
+                "fontStyle": ""
+            }
+        },
+        {
             "scope": "string",
             "settings": {
                 "foreground": "#006618"
