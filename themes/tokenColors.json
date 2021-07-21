@@ -501,6 +501,12 @@
             }
         },
         {
+            "scope": "meta.jsx.children",
+            "settings": {
+                "foreground": "#1c2436"
+            }
+        },
+        {
             "scope": "entity.other.attribute-name",
             "settings": {
                 "foreground": "##2f5591"
