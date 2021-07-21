@@ -22,7 +22,7 @@
 		"label": "#33aba9",
 		"enumMember": {
 			"foreground": "#661F5E",
-			"bold": true
+			// "bold": true
 		},
 		"comment": "#788DA1",
 		"string": "#006618",
