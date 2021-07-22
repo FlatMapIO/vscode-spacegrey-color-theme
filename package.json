@@ -4,7 +4,7 @@
     "description": "The spacegrey theme",
     "author": "huodon@gmail.com",
     "publisher": "huodon",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "icon": "icon.png",
     "repository": {
         "url": "https://github.com/FlatMapIO/vscode-spacegrey-color-theme.git"
